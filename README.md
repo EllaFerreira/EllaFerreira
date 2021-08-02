@@ -9,4 +9,6 @@ I am passionate about human-computer interaction so, I'm learning to turn my ide
 
 You can check all my projects on my website 🧩
 
+# Technologys 
+
 
