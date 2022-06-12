@@ -1,6 +1,6 @@
 
 
-# Hey, I'm Ella! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 😃
+# Hey, I'm Ella! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> 😃
 
 - 🔭 &nbsp;I'm currently working on my React Portfolio 
 - 🌱 &nbsp;I’m currently learning Typescript and React
