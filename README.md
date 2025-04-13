@@ -2,13 +2,21 @@
 
 # Hey, I'm Ella! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> 😃
 
-- 🔭 &nbsp;I'm currently working on my React Portfolio 
-- 🌱 &nbsp;I’m currently learning Typescript and React
-- 📫 &nbsp;How to reach me: [@EllaFerreira](https://twitter.com/EllaFerreira8) or [Ella Ferreira](https://www.linkedin.com/in/ella-ferreira-3959aa82/)
+- 🌱 &nbsp;Currently diving into AI Engineering – learning LangChain, AWS Bedrock, and vector databases!
+- 📫 &nbsp;How to reach me: [Ella Ferreira](https://www.linkedin.com/in/ella-ferreira-3959aa82/)
 - ⚡ &nbsp;Fun fact: I 💛 cats and I have 🐈 🐈‍⬛
+- 🛠️ What I'm Building
+  - **AI-Support-Chain**: An AI-powered support tool to detect duplicated tickets and suggest solutions from past tickets (LangChain + NestJS + OpenAI)
+  - **Serveless-Bedrock-AI-Agent**: Bedrock AI agent for support tool (AWS CDK + Typescript + Claude Haiku)
+
+- 🌐 Community & Talks
+  - 🎤 Speaker at *Connecting Horizons: Women in IT in Australia*
+  - 🛠️ GDG Brisbane organiser – building spaces for devs to learn and grow
+  - 🧠 City Lead of the Build Club, passionate about GenAI and community knowledge-sharing
 
 
-I'm a curious Full Stack developer who is passionate about human-computer interaction so, I'm learning to turn my ideas into reality, using HTML, CSS, JavaScript and more. 🧩
+I’m a mid-level Full Stack Software Engineer and an AI Engineer in training 🚀
+Passionate about building impactful experiences through code and curious by nature – from frontend polish to backend logic to LLM-powered tools 🧩
 
 
 ## Languages and Tools
@@ -23,8 +31,19 @@ I'm a curious Full Stack developer who is passionate about human-computer intera
     <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
     <img height="30" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
+    <img height="30" align="center" src="https://nestjs.com/img/logo-small.svg" />
+    <img height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    
 </div>
 
+## 
+
+
+
+
+![Ella's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellaferreira&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellaferreira&layout=compact)
 
 
 
